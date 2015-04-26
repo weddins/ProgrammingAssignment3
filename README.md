@@ -11,7 +11,3 @@
  4. Open run_analysis.R with RStudio.
  5. Use ctrl+a to select the source code.
  6. Click the Run button.
-
-
-# ProgrammingAssignment3
-Third project in the course
