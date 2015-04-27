@@ -1,8 +1,8 @@
 # README.md
 ## Description of the study
- Who: Bill, a student taking Getting and Cleaning Data
- Why: Part of the Data Science Certification
- How: Using R, R Studio, and the internet
+Who: Bill, a student taking Getting and Cleaning Data
+Why: Part of the Data Science Certification
+How: Using R, R Studio, and the internet
 
 ## Instructions:
  1. Download the zip file found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
